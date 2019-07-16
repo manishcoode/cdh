@@ -10,6 +10,11 @@ Trees
 Graph
 
 
+Types of sorting
+quick sort
+Bubble sort
+
+
 
 
 Thankyou
