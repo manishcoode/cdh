@@ -6,3 +6,5 @@ stack
 queue
 sorting
 searchhing
+Trees
+Graph
