@@ -1,0 +1,8 @@
+
+
+Welcome to Algorithhmic world
+
+stack
+queue
+sorting
+searchhing
