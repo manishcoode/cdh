@@ -10,6 +10,16 @@ Trees
 Graph
 
 
+Types of sorting
+quick sort
+Bubble sort
 
 
-Thankyou
+
+
+
+
+
+Thankyou 
+
+Done My changes
